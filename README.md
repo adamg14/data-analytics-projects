@@ -7,13 +7,20 @@ Datasets used for this project are publicly available.
 The main python module used througout these projects for the data processing and import from raw data structure(.csv files) was pandas.
 
 ## Figures
--![__Figure 1 - Project 3, Image 1:__](figures/project3-1.png)
--![__Figure 2 - Project 3, Image 2:__](figures/project3-2.png)
--![__Figure 3 - Project 3, Image 3__](figures/project3-3.png)
--![__Figure 4 - Project 4, Image 1:__](figures/project4-1.png)
--![__Figure 5 - Project 4, Image 2:__](figures/project4-2.png)
--![__Figure 6 - Project 4, Image 3:__](figures/project4-3.png)
--![__Figure 7 - Project 5, Image 1:__](figures/project5-1.png)
+-__Figure 1 - Project 3, Image 1:__
+![__Figure 1 - Project 3, Image 1:__](figures/project3-1.png)
+-__Figure 2 - Project 3, Image 2:__
+![__Figure 2 - Project 3, Image 2:__](figures/project3-2.png)
+-__Figure 3 - Project 3, Image 3__
+![__Figure 3 - Project 3, Image 3__](figures/project3-3.png)
+-__Figure 4 - Project 4, Image 1:__
+![__Figure 4 - Project 4, Image 1:__](figures/project4-1.png)
+-__Figure 5 - Project 4, Image 2:__
+![__Figure 5 - Project 4, Image 2:__](figures/project4-2.png)
+-__Figure 6 - Project 4, Image 3:__
+![__Figure 6 - Project 4, Image 3:__](figures/project4-3.png)
+-__Figure 7 - Project 5, Image 1:__
+![__Figure 7 - Project 5, Image 1:__](figures/project5-1.png)
 
 ## Description
 Description of each of the projects:
