@@ -2,6 +2,8 @@ import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 import numpy as np
+
+
 def is_overweight(weight, height):
     BMI = weight / ((height / 100)**2)
     if BMI > 25:
@@ -9,11 +11,13 @@ def is_overweight(weight, height):
     else:
         return 0
 
+
 def normalisation(cholesterol, gluc):
     if (cholesterol == 1 or gluc == 1):
         return 0
     else:
         return 1
+    
         
 # # add an overweight column
 df = pd.read_csv("./medical_examination.csv")

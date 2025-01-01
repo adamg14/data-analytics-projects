@@ -76,9 +76,11 @@ sns.boxplot(data=box_plot,
             y="value",
             order=month_order,
             ax=axis[1])
+
 axis[1].set_title("Month-wise Box Plot (Seasonality)")
 axis[1].set_xlabel("Month")
 axis[1].set_ylabel("Page Views")
+axis[1].set_xticklabels(axis[1].get_xticklabels(), rotation=45)
 
 plt.show()
 plt.close()
