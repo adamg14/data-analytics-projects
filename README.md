@@ -6,6 +6,15 @@ Datasets used for this project are publicly available.
 
 The main python module used througout these projects for the data processing and import from raw data structure(.csv files) was pandas.
 
+## Figures
+-![__Figure 1 - Project 3, Image 1:__](figures/project3-1.png)
+-![__Figure 2 - Project 3, Image 2:__](figures/project3-2.png)
+-![__Figure 3 - Project 3, Image 3__](figures/project3-3.png)
+-![__Figure 4 - Project 4, Image 1:__](figures/project4-1.png)
+-![__Figure 5 - Project 4, Image 2:__](figures/project4-2.png)
+-![__Figure 6 - Project 4, Image 3:__](figures/project4-3.png)
+-![__Figure 7 - Project 5, Image 1:__](figures/project5-1.png)
+
 ## Description
 Description of each of the projects:
 1. 3D-Matrix Calculator - This project consists of a function that takes a 1D matrix as an input, and converts this numpy matrix into a 2D 3x3 matrix. The function then returns statistical descriptions of: column-wise internal arrays and row-wise internal arrays and entire flattened array.
